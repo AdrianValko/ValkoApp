@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValkoApp", "ValkoApp.csproj", "{772D401D-4C52-44CE-A4C9-900849BAB775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772D401D-4C52-44CE-A4C9-900849BAB775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772D401D-4C52-44CE-A4C9-900849BAB775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772D401D-4C52-44CE-A4C9-900849BAB775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772D401D-4C52-44CE-A4C9-900849BAB775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FAC3BB-0FB7-4EEF-8C29-59048042C67D}
+	EndGlobalSection
+EndGlobal
